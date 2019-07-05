@@ -1,0 +1,4 @@
+Hamster hamster1 carlos cafe 5.7
+Andres 1203323591
+Cat cat1 daniela negro true
+Maria 39735679
